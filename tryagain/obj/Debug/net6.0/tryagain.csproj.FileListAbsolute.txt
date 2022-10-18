@@ -1,0 +1,5 @@
+/Users/andy/CodeStack 22-23/lvl 1/day2branches/tryagain/obj/Debug/net6.0/tryagain.csproj.AssemblyReference.cache
+/Users/andy/CodeStack 22-23/lvl 1/day2branches/tryagain/obj/Debug/net6.0/tryagain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/andy/CodeStack 22-23/lvl 1/day2branches/tryagain/obj/Debug/net6.0/tryagain.AssemblyInfoInputs.cache
+/Users/andy/CodeStack 22-23/lvl 1/day2branches/tryagain/obj/Debug/net6.0/tryagain.AssemblyInfo.cs
+/Users/andy/CodeStack 22-23/lvl 1/day2branches/tryagain/obj/Debug/net6.0/tryagain.csproj.CoreCompileInputs.cache
